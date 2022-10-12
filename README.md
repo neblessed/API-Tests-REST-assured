@@ -26,7 +26,7 @@
 
 ### Немного слов про JUnit-аннотации: 
 
-Перед объявлением класса используется аннотация @TestMethodOrder(MethodOrderer.DisplayName.class) для того, чтобы упорядочить выполнение тесто один за другим, в строгой последовательности.
+Перед объявлением класса используется аннотация @TestMethodOrder(MethodOrderer.DisplayName.class) для того, чтобы упорядочить выполнение тестов "один за другим".
 
 ![image](https://user-images.githubusercontent.com/110935510/189411023-dc2ba880-fda2-4043-b489-8e17a7f43a55.png)
 
